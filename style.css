@@ -81,6 +81,12 @@ table td {
     text-decoration: none;
 }
 
+.post h2{
+    margin-top: 10px;
+    background-color:rgb(233, 233, 233);
+    margin-bottom: 10px;
+}
+
 a:link {
     color: royalblue;
 }
